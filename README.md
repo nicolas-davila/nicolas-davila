@@ -6,7 +6,6 @@ Minhas redes-sociais:
 [![Linkedin](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCFJnxai8rTzJB5g1PiIgIVQ)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-davila&show_icons=true&theme=dark)
-<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-leitesouza&layout=compact&langs_count=7&theme=radical" />
 
 ### Tecnologias 💻
 

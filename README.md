@@ -7,7 +7,7 @@ Minhas redes-sociais:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-davila&show_icons=true&theme=dark)
 <br>
-<img height="150em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-davila&layout=compact&langs_count=16&theme=dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-davila&layout=compact&langs_count=16&theme=dark"/>
 
 ### Tecnologias 💻
 

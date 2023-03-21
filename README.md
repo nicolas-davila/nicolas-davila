@@ -1,4 +1,10 @@
-### Opa! Meu nome é Nicolas Dávila 🕹️
+# Olá, me chamo Nicolas Dávila ! 
+## Bem vindo ao meu perfil GitHub 👋
+
+## Atualmente estou: 
+- :computer: Concluindo o curso técnico de análise e desenvolvimento de sitemas;
+- :mortar_board: Cursando Engenharia de Software; 
+- :telescope: Estudando JavaScript.
 
 Minhas redes-sociais:
 

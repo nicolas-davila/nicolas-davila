@@ -9,7 +9,7 @@ Minhas redes-sociais:
 <div>
     <a href="https://github.com/seu-usuário-aqui">
     
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas-davila-usuário-aqui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Tecnologias 💻

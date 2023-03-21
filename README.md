@@ -6,11 +6,6 @@ Minhas redes-sociais:
 <a href = "mailto:nicolasdavilaferreirasantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-davila&show_icons=true&theme=dark)
-<div>
-    <a href="https://github.com/seu-usuário-aqui">
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas-davila-usuário-aqui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
 
 ### Tecnologias 💻
 

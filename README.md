@@ -23,5 +23,3 @@
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
-
-![Snake animation](https://github.com/nicolas-davila/nicolas-davila/blob/output/github-contribution-grid-snake.svg)

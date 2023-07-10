@@ -3,7 +3,7 @@
 
 ## Atualmente estou: 
 - :computer: Técnico de análise e desenvolvimento de sitemas;
-- :mortar_board: Cursando Engenharia de Software; 
+- :mortar_board: Cursando Sistema de Informação; 
 - :telescope: Estudando JavaScript.
 
 ### Minhas redes-sociais:

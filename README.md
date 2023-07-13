@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 ## Atualmente estou: 
-- :computer: Técnico de análise e desenvolvimento de sitemas;
+- :computer: Técnico em análise e desenvolvimento de sitemas;
 - :mortar_board: Cursando Sistema de Informação; 
 - :telescope: Estudando JavaScript.
 

@@ -4,10 +4,10 @@
 ## Atualmente estou: 
 - :mortar_board: Cursando Sistema de Informação; 
 - :telescope: Estudando JavaScript;
-- :desktop_computer: Trabalhando com Thingsboard.
+- :man_technologist: Trabalhando com Thingsboard.
 
 ## Sou formado em:
-- :computer: Técnico em análise e desenvolvimento de sitemas.
+- :man_student: Técnico em análise e desenvolvimento de sitemas.
 
 ### Minhas redes-sociais:
 

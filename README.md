@@ -17,8 +17,8 @@
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-davila&show_icons=true&theme=dark)     
 </div>
 <br>
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-davila&layout=compact&langs_count=16&theme=dark"/>
-
+<!-- <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-davila&layout=compact&langs_count=16&theme=dark"/>
+ -->
 ### Tecnologias 💻
 
 <div style="display: inline_block">

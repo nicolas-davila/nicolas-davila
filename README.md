@@ -2,7 +2,7 @@
 # Bem vindo ao meu perfil GitHub 👋
 
 ## Atualmente estou: 
-- :mortar_board: Cursando Sistema de Informação; 
+- :mortar_board: Cursando Sistemas de Informação; 
 - :telescope: Estudando JavaScript;
 - :man_technologist: Trabalhando com Thingsboard.
 

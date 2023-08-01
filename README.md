@@ -3,7 +3,7 @@
 
 ## Atualmente estou: 
 - :mortar_board: Cursando Sistemas de Informação; 
-- :telescope: Estudando JavaScript, Python;
+- :telescope: Estudando Javascript, Python;
 - :man_technologist: Trabalhando com Thingsboard IOT.
 
 ## Sou formado em:

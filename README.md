@@ -23,7 +23,7 @@
   - :telescope: Estudando Javascript, Python; <br>
   - :man_technologist:Trabalhando com Thingsboard IoT.
 
-<div align="right">
+<div float="left">
   
   ## Sou formado em:
    :man_student: Técnico em análise e desenvolvimento de sitemas.

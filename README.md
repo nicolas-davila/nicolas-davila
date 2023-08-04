@@ -3,7 +3,7 @@
   ## Olá! Seja bem-vindo(a) ao meu perfil do Github!
   
   ## Meu nome é Nicolas Dávila!
-  
+</div>
   ## Atualmente estou: 
   - :mortar_board: Cursando Sistemas de Informação; 
   - :telescope: Estudando Javascript, Python;
@@ -42,4 +42,4 @@
       <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </div>
-</div>
+

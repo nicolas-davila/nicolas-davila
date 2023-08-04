@@ -2,7 +2,7 @@
 
 ## Seja bem-vindo(a) ao meu perfil do Github!
 
-## Meu nome é [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nicolas;)](https://git.io/typing-svg)
+## Meu nome é Nicolas Dávila!
 
 ## Atualmente estou: 
 - :mortar_board: Cursando Sistemas de Informação; 

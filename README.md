@@ -6,6 +6,11 @@
   
   ## Meu nome é Nicolas Dávila!
 
+  <br>
+  <br>
+  <br>
+  <br>
+
   ## Atualmente estou: 
   
   - :mortar_board: Cursando Sistemas de Informação; <br>

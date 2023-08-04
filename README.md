@@ -1,7 +1,6 @@
 <div align="center">
   
   ## Olá! Seja bem-vindo(a) ao meu perfil do Github!
-  ##Olá seja bem:wave:
   
   ## Meu nome é Nicolas Dávila!
 </div>

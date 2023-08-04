@@ -5,7 +5,9 @@
   ## Olá! Seja bem-vindo(a) ao meu perfil do Github! :wave:
   
   ## Meu nome é Nicolas Dávila!
+</div>
 
+  <br>
   <br>
 
   <div align="center">  
@@ -13,10 +15,7 @@
       <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-davila&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
     </div>
     
-    
-  <div align="left">
-    <br>
-  </div>
+
     
   ## Atualmente estou: 
   
@@ -27,7 +26,7 @@
   ## Sou formado em:
    :man_student: Técnico em análise e desenvolvimento de sitemas.
 
-</div>
+
   
   ### Minhas redes-sociais:
 

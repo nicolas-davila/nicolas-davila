@@ -4,7 +4,7 @@
 
  <h3>Olá! Seja bem-vindo(a) ao meu perfil do Github! :wave:</h3>
   
-  <h3>Meu nome é Nicolas Dávila!</h3>
+  <h3>Meu nome é Nicolas Dávila! :smile:</h3>
 </div>
 
   <br>
@@ -17,7 +17,7 @@
     
 
     
-  ## Atualmente estou: 
+  <h3>Atualmente estou:</h3>
   
   - :mortar_board: Cursando Sistemas de Informação; 
   - :telescope: Estudando Javascript, Python;

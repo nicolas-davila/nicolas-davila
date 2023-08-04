@@ -41,7 +41,7 @@
       <a href = "mailto:nicolasdavilaferreirasantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      ![Threads](https://img.shields.io/badge/Threads-nicolasdavila_santos?style=for-the-badge&logo=Threads&logoColor=white)
       
-  ### :computer:Tecnologias
+  ### Tecnologias: :computer:
     
   <div style="display: inline_block; align: center">
 

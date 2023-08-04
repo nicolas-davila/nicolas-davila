@@ -1,5 +1,7 @@
-# Olá, me chamo Nicolas Dávila ! 
-# Bem vindo ao meu perfil GitHub 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meu_nome_é:_Nicolas_Dávila!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja_bem_vindo(a)_ao_meu_Github!;)](https://git.io/typing-svg)
+
 
 ## Atualmente estou: 
 - :mortar_board: Cursando Sistemas de Informação; 
@@ -29,8 +31,6 @@
 <div align="left">
   <br>
 <br>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kalashnikov;)](https://git.io/typing-svg)
 </div>
 
 ### Tecnologias 💻

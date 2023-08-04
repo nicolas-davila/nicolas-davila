@@ -24,10 +24,13 @@
   - :man_technologist:Trabalhando com Thingsboard IoT.
 
     <br>
-    <br>
   
   ## Sou formado em:
   :man_student: Técnico em análise e desenvolvimento de sitemas.
+
+  <br>
+  <br>
+  <br>
 
 <div align="center">
 

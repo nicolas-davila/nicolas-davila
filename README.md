@@ -1,3 +1,5 @@
+<img width=100% height=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <div align="center">
 
   ## Olá! Seja bem-vindo(a) ao meu perfil do Github! :wave:
@@ -45,5 +47,3 @@
   </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-<img width=100% height=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>

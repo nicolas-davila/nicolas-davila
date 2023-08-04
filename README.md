@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Seja bem-vindo(a) ao meu perfil do Github!</h1> 
 
-:wave:
+## :wave:
 
 <div align="center">
   

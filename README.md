@@ -14,9 +14,26 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-d%C3%A1vila-307b83236/)
 <a href = "mailto:nicolasdavilaferreirasantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolas-davila&show_icons=true&theme=dark)
+![A<div align="center">
+  <br>
+<br>
 
-<img height="195px" margin-left="auto" margin-right="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-davila&layout=compact&langs_count=16&theme=dark"/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/153490292081819648?borderRadius=5px&idleMessage=ROOT&bg=a&animated=true)](https://discord.com/users/153490292081819648)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DGS1337&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="nicolas-davila github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-davila&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+<div align="left">
+  <br>
+<br>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kalashnikov;)](https://git.io/typing-svg)
+</div>
 
 ### Tecnologias 💻
 

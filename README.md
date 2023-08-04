@@ -12,9 +12,9 @@
     </div>
     
     
-    <div align="left">
+  <div align="left">
     <br>
-    </div>
+  </div>
     
   ## Atualmente estou: 
   

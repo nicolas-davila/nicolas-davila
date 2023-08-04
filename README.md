@@ -7,7 +7,7 @@
 - :telescope: Estudando Javascript, Python;
 - :man_technologist: Trabalhando com Thingsboard IoT.
 
-  !<div align="center">
+<div align="center">
   <br>
 <br>
 

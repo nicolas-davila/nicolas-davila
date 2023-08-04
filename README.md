@@ -30,7 +30,8 @@
   <div align="left">
   <br>
   </div>
-  
+
+  <hr>
   
   ### Minhas redes-sociais:
 

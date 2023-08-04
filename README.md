@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meu_nome_é:_Nicolas_Dávila!;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja_bem_vindo(a)_ao_meu_Github!;)](https://git.io/typing-svg)
+#Olá! 
 
+## Seja bem-vindo(a) ao meu perfil do Github!
+
+## Meu nome é [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Nicolas;)](https://git.io/typing-svg)
 
 ## Atualmente estou: 
 - :mortar_board: Cursando Sistemas de Informação; 

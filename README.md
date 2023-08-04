@@ -27,9 +27,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kalashnikov;)](https://git.io/typing-svg)
 <div align="left">
   <br>
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kalashnikov;)](https://git.io/typing-svg)
 <br>
 </div>
 

@@ -8,9 +8,9 @@
 
   ## Atualmente estou: 
   
-   Cursando Sistemas de Informação :mortar_board:; <br>
-   Estudando Javascript, Python  :telescope:; <br>
-  Trabalhando com Thingsboard IoT :man_technologist:.
+  - :mortar_board: Cursando Sistemas de Informação; <br>
+  - :telescope: Estudando Javascript, Python; <br>
+  - :man_technologist:Trabalhando com Thingsboard IoT.
   
   ## Sou formado em:
    :man_student: Técnico em análise e desenvolvimento de sitemas.

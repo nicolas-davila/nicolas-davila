@@ -7,15 +7,7 @@
 - :telescope: Estudando Javascript, Python;
 - :man_technologist: Trabalhando com Thingsboard IoT.
 
-## Sou formado em:
-- :man_student: Técnico em análise e desenvolvimento de sitemas.
-
-### Minhas redes-sociais:
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-d%C3%A1vila-307b83236/)
-<a href = "mailto:nicolasdavilaferreirasantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-!<div align="center">
+  !<div align="center">
   <br>
 <br>
 
@@ -27,11 +19,18 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kalashnikov;)](https://git.io/typing-svg)
+
 <div align="left">
-  <br>
 <br>
 </div>
+
+## Sou formado em:
+- :man_student: Técnico em análise e desenvolvimento de sitemas.
+
+### Minhas redes-sociais:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-d%C3%A1vila-307b83236/)
+<a href = "mailto:nicolasdavilaferreirasantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### Tecnologias 💻
 

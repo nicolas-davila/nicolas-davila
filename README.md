@@ -5,7 +5,8 @@
   ## Meu nome é Nicolas Dávila!
 </div>
 
-<div>
+<div display="flex">
+  
   ## Atualmente estou: 
   - :mortar_board: Cursando Sistemas de Informação; 
   - :telescope: Estudando Javascript, Python;

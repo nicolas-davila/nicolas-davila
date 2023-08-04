@@ -13,6 +13,8 @@
   ## Sou formado em:
   - :man_student: Técnico em análise e desenvolvimento de sitemas.
 
+<hr>
+
   <div align="center">
     <br>
   <br>

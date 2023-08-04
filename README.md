@@ -25,7 +25,7 @@
 
     <br>
   
-  ## Sou formado em:
+  <h3>Sou formado em: </h3>
   - :man_student: Técnico em análise e desenvolvimento de sitemas.
 
   <br>

@@ -4,8 +4,6 @@
   
   ## Meu nome é Nicolas Dávila!
 </div>
-
-<div position="absolute">
   
   ## Atualmente estou: 
   - :mortar_board: Cursando Sistemas de Informação; 
@@ -14,7 +12,6 @@
   
   ## Sou formado em:
   - :man_student: Técnico em análise e desenvolvimento de sitemas.
-</div>
 
   <div align="center">
     <br>

@@ -4,18 +4,20 @@
   
   ## Meu nome é Nicolas Dávila!
 </div>
+
+<div flex-wrap="wrap">
   
-## Atualmente estou: 
+  ## Atualmente estou: 
   - :mortar_board: Cursando Sistemas de Informação; 
   - :telescope: Estudando Javascript, Python;
   - :man_technologist: Trabalhando com Thingsboard IoT.
-
-<div float="right">
   
+  
+    
   ## Sou formado em:
   - :man_student: Técnico em análise e desenvolvimento de sitemas.
-
 </div>
+
   <div align="center">
     <br>
   <br>

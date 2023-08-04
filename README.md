@@ -5,7 +5,7 @@
   ## Meu nome é Nicolas Dávila!
 </div>
 
-<div display="flex">
+<div display="flex" flex-direction="row">
   
   ## Atualmente estou: 
   - :mortar_board: Cursando Sistemas de Informação; 

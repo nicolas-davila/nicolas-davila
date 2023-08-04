@@ -7,8 +7,8 @@
   ## Meu nome é Nicolas Dávila!
 
   ## Atualmente estou: 
-   :mortar_board: Cursando Sistemas de Informação; 
-   :telescope: Estudando Javascript, Python;
+   :mortar_board: Cursando Sistemas de Informação; <br>
+   :telescope: Estudando Javascript, Python; <br>
    :man_technologist: Trabalhando com Thingsboard IoT.
   
   ## Sou formado em:

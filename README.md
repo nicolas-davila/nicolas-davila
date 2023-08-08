@@ -14,10 +14,6 @@
       <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolas-davila&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="nicolas-davila github stats" /> 
       <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-davila&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
     </div>
-    
-
-
-<div style="display: flex; flex-direction: row;">
 
 <h3>Atualmente estou:</h3>
   
@@ -30,10 +26,6 @@
   <h3>Sou formado em: </h3>
   
    - :man_student: Técnico em análise e desenvolvimento de sitemas.
-
- 
-</div>
-    
   
   <br>
   <br>

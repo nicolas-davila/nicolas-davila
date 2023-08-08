@@ -16,8 +16,10 @@
     </div>
     
 
-    
-  <h3>Atualmente estou:</h3>
+
+<div flex-wrap="wrap">
+
+<h3>Atualmente estou:</h3>
   
   - :mortar_board: Cursando Sistemas de Informação; 
   - :telescope: Estudando Javascript, Python;
@@ -29,7 +31,10 @@
   
    - :man_student: Técnico em análise e desenvolvimento de sitemas.
 
-  <br>
+ 
+</div>
+    
+  
   <br>
   <br>
 

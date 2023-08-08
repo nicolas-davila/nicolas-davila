@@ -17,7 +17,7 @@
     
 
 
-<div flex-wrap="wrap">
+<div style="display: flex; flex-direction: row;">
 
 <h3>Atualmente estou:</h3>
   

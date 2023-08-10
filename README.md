@@ -2,7 +2,7 @@
 
 <div align="center">
 
- <h3>Hello! Welcome to my Github profile! :wave:</h3>
+ <h3>Hi there! Welcome to my Github profile! :wave:</h3>
   
   <h3>My name is Nicolas Dávila! :smile:</h3>
 </div>

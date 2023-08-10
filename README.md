@@ -2,9 +2,9 @@
 
 <div align="center">
 
- <h3>Olá! Seja bem-vindo(a) ao meu perfil do Github! :wave:</h3>
+ <h3>Hello! Welcome to my Github profile! :wave:</h3>
   
-  <h3>Meu nome é Nicolas Dávila! :smile:</h3>
+  <h3>My name is Nicolas Dávila! :smile:</h3>
 </div>
 
   <br>
@@ -15,29 +15,29 @@
       <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-davila&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
     </div>
 
-<h3>Atualmente estou:</h3>
+<h3>I'm currently:</h3>
   
-  - :mortar_board: Cursando Sistemas de Informação; 
-  - :telescope: Estudando Javascript, Python;
-  - :man_technologist:Trabalhando com Thingsboard IoT.
+  - :mortar_board: Studying Information Systems; 
+  - :telescope: Studying Python, C#;
+  - :man_technologist: Working with Thingsboard IoT.
 
     <br>
   
-  <h3>Sou formado em: </h3>
+  <h3>I graduated from: </h3>
   
-   - :man_student: Técnico em análise e desenvolvimento de sitemas.
+   - :man_student: Systems analysis and development technician.
   
   <br>
   <br>
 
 <div align="center">
 
-  ### Minhas redes-sociais:
+  ### My social networks:
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-d%C3%A1vila-307b83236/)
       <a href = "mailto:nicolasdavilaferreirasantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       
-  ### Tecnologias: :computer:
+  ### Technologies: :computer:
     
   <div style="display: inline_block; align: center">
 

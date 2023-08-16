@@ -41,12 +41,6 @@
 
    <br>
    <br>
-
-   ##Views
-
-   <a href="https://www.youtube.com/watch?v=ZxZ1I1yTCUI&ab_channel=Joshwin"> 
-      <img src="https://profile-counter.glitch.me/0vm/count.svg" alt="0vm" />
-   </a>
       
   ### Technologies: :computer:
     

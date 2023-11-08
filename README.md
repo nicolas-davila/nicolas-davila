@@ -21,7 +21,7 @@
   
   - :mortar_board: Studying Information Systems; 
   - :telescope: Studying Python, C#;
-  - :man_technologist: Working with Thingsboard IoT.
+  - :man_technologist: Working with Thingsboard IoT, Node-Red.
 
     <br>
   

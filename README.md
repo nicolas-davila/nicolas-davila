@@ -20,8 +20,8 @@
 <h3>I'm currently:</h3>
   
   - :mortar_board: Studying Information Systems; 
-  - :telescope: Studying Python, C#;
-  - :man_technologist: Working with Thingsboard IoT, Node-Red.
+  - :telescope: Studying Python, Javascipt, node.js;
+  - :man_technologist: Working with Excel, Python.
 
     <br>
   

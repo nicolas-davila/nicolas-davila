@@ -55,6 +55,7 @@
    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+   ![PHP](https://img.shields.io/badge/php-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white)
   </div>
   
 </div>

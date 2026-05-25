@@ -7,11 +7,8 @@
 
 <br>
 
-<div align="center">
-
+<div align="center"
 [![Nicolas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nicolas-davila&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Nicolas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nicolas-davila&show_icons=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 <br>

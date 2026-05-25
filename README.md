@@ -19,7 +19,7 @@
 <h3>I'm currently:</h3>
   
 - :mortar_board: Studying Information Systems; 
-- :telescope: Studying Python, JavaScript, PHP;
+- :telescope: Studying MYSQL, JavaScript, PHP;
 - :man_technologist: Working with PHP, JavaScript.
 
 <br>
